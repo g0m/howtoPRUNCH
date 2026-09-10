@@ -2,7 +2,7 @@ window.onload = function() {
 var myArray = [
 ["troubled genius", "To Prunch, add a target card from your sideboard to your hand.<br>'?' is equal to its MV."],
 ["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
-["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase. It's NaN until then."],
+["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase."],
 ["grunch", "To Prunch, Grunch.<br>'?' is equal to whatever '?' is equal to."],
 ["purple man (not the marvel one)", "To Prunch, you may search your deck for a Nebula and put it onto the battlefield tapped.<br>'?' is equal to the amount of Nebulas you control."],
 ["noun", "To Prunch, you may reveal a card from your hand. All its colored mana pips perpetually become purple twobrid.<br>'?' is equal to your devotion to purple."],
