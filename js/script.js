@@ -58,11 +58,9 @@ var ftArray = [
   "I like Prunch.",
   "When not being played as a game object, you can find Prunch scrolling through YouTube shorts of The Big Bang Theory and crying at the emotional parts."
 ];
-var normalGrunchImage = "normalimage.png"
+var normalGrunchImage = "images/prunch.png"
 var randomGrunchImage = [
-  "randomimage1.gif",
-  "randomimage2.gif",
-  "randomimage3.gif"
+  "images/prunch.png"
   ];
   
 
