@@ -56,7 +56,10 @@ var ftArray = [
   "This isn't an echoverse thing. Prunch is actually from the Star Trek mirror universe",
   "Prunch is short for Pruple Ounch.",
   "I like Prunch.",
-  "When not being played as a game object, you can find Prunch scrolling through YouTube shorts of The Big Bang Theory and crying at the emotional parts."
+  "When not being played as a game object, you can find Prunch scrolling through YouTube shorts of The Big Bang Theory and crying at the emotional parts.",
+  "BRING PRUNCH TO THE PRERELEASE — GET YOUR SHIT ROCKED",
+  "This year will be the 'Year of Prunch'.",
+  "Yell at Prunch! Scream at Prunch! Call for its death!!"
 ];
 var normalGrunchImage = "images/prunch.png"
 var randomGrunchImage = [
