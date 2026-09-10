@@ -4,7 +4,7 @@ var myArray = [
 ["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase."],
 ["grunch", "To Prunch, Grunch.<br>'?' is equal to whatever '?' is equal to."],
-["purple man (not the marvel one)", "To Prunch, you may search your deck for a Nebula and put it onto the battlefield tapped.<br>'?' is equal to the amount of Nebulas you control."],
+["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from a public zone.<br>'?' is equal to its MV."],
 ["noun", "To Prunch, you may reveal a card from your hand. All its colored mana pips perpetually become purple twobrid.<br>'?' is equal to your devotion to purple."],
 ["homunculous", "To Prunch, destroy up to two target conspiracies and/or emblems.<br>'?' is equal to 3."],
 ["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4."],
