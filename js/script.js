@@ -19,6 +19,19 @@ var myArray = [
 ["quack", "To Grunch, draw target card in any zone. <br> '?' is equal to the number of cards in your hand."],
 ["ruffian", "To Grunch, create a token copy of Grunch. <br>'?' is equal to NaN."],
 
+["troubled genius", "add a target card from your sideboard to your hand.<br>'?' is equal to its MV."],
+["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
+["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase. It's NaN until then."],
+["grunch", "To Prunch, Grunch.<br>'?' is equal to whatever '?' is equal to."],
+["purple man (not the marvel one)", "To Prunch, you may search your deck for a Nebula and put it onto the battlefield tapped.<br>'?' is equal to the amount of Nebulas you control."],
+["noun", "To Prunch, you may reveal a card from your hand. All its colored mana pips perpetually become purple twobrid.<br>'?' is equal to your devotion to purple."],
+["homunculous", "To Prunch, destroy up to two target conspiracies and/or emblems.<br>'?' is equal to 3."],
+["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4."],
+["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
+["fallen soul", "To Prunch, draw a card from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
+["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax, for the rest of the game, and cannot be redefined."],
+["proxy", "To Prunch, gain a legendary emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 0 (nice try)."],
+["insect", "To Prunch, fateseal 1, then that opponent reveals the top card of their deck.<br>'?' is equal to its MV."],
 
 ];
 
