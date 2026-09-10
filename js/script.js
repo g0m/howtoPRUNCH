@@ -59,7 +59,9 @@ var ftArray = [
   "When not being played as a game object, you can find Prunch scrolling through YouTube shorts of The Big Bang Theory and crying at the emotional parts.",
   "BRING PRUNCH TO THE PRERELEASE — GET YOUR SHIT ROCKED",
   "This year will be the 'Year of Prunch'.",
-  "Yell at Prunch! Scream at Prunch! Call for its death!!"
+  "Yell at Prunch! Scream at Prunch! Call for its death!!",
+  "You would veto Prunch? Iconic beloved hellscube mainstay Prunch???",
+  "'Any fool can know. The point is to understand.' -Prunch"
 ];
 var normalGrunchImage = "images/prunch.png"
 var randomGrunchImage = [
