@@ -73,7 +73,7 @@ var randomFt = ftArray[Math.floor(Math.random()*ftArray.length)];
 var randomGrunch = randomGrunchImage[Math.floor(Math.random()*randomGrunchImage.length)];
 var randomGrunchValue = Math.random();
 
-var elem = document.getElementById('grunchtext');
+var elem = document.getElementById('prunchtext');
 elem.innerHTML = randomItem[1];
 
 var guy = document.getElementById('guytext');
