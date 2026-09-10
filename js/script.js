@@ -4,7 +4,7 @@ var myArray = [
 ["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase."],
 ["grunch", "To Prunch, Grunch.<br>'?' is equal to whatever '?' is equal to."],
-["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from a public zone.<br>'?' is equal to its MV."],
+["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from the battlefield.<br>'?' is equal to its MV."],
 ["noun", "To Prunch, you may reveal a card from your hand. All its colored mana pips perpetually become purple twobrid.<br>'?' is equal to your devotion to purple."],
 ["homunculous", "To Prunch, destroy up to two target conspiracies and/or emblems.<br>'?' is equal to 3."],
 ["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4."],
@@ -13,10 +13,10 @@ var myArray = [
 ["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax, for the rest of the game, and cannot be redefined."],
 ["proxy", "To Prunch, gain a legendary emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 0 (nice try)."],
 ["insect", "To Prunch, fateseal 1, then that opponent reveals the top card of their deck.<br>'?' is equal to its MV."],
-["wad", "To Prunch, draw two cards.<br>'?' is equal to how many cards you've drawn so far this turn."],  
+["wad", "To Prunch, draw two cards.<br>'?' is equal to how many cards are in your whammy deck."],  
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
-["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its MV.<br>'?' is also equal to your MV."],
-["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard. It becomes a battle under your protection with defence equal to its MV.<br>'?' is also equal to your MV."],
+["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its MV.<br>'?' is also equal to its MV."],
+["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards you moved."],
 ["symbol of good", "To Prunch, open a booster pack of Homelands (<a href=\"https://mtgpacksim.com/sets/hml\">https://mtgpacksim.com/sets/hml</a>). You may play a land or freecast a spell from it.<br>'?' is equal to 8."]
   
 
