@@ -62,7 +62,9 @@ var ftArray = [
   "Yell at Prunch! Scream at Prunch! Call for its death!!",
   "You would veto Prunch? Iconic beloved hellscube mainstay Prunch???",
   "'Any fool can know. The point is to understand.' -Prunch",
-  "One Prunch Man."
+  "One Prunch Man.",
+  "Kind of funny to see Prunch.",
+  "Deeply upsetting to see Prunch."
 ];
 var normalGrunchImage = "images/prunch.png"
 var randomGrunchImage = [
