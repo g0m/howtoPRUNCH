@@ -17,7 +17,7 @@ var myArray = [
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
 ["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its MV+1.<br>'?' is also equal to its MV+1."],
 ["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards you moved."],
-["symbol of good", "To Prunch, open a booster pack of Homelands (<a href=\"https://mtgpacksim.com/sets/hml\">https://mtgpacksim.com/sets/hml</a>). You may play a land or freecast a spell from it.<br>'?' is equal to 8."]
+["symbol of good", "To Prunch, open a booster pack of Homelands (<a href=\"https://mtgpacksim.com/sets/hml\">https://mtgpacksim.com/sets/hml</a>). You may play a land or freecast a spell from it.<br>'?' is equal to the amount of upvotes Prunch received in submissions."]
   
 
 ];
