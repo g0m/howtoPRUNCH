@@ -12,10 +12,10 @@ var myArray = [
 ["fallen soul", "To Prunch, draw a card from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
 ["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax, for the rest of the game, and cannot be redefined."],
 ["proxy", "To Prunch, gain a legendary emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 0 (nice try)."],
-["insect", "To Prunch, fateseal 1, then that opponent reveals the top card of their deck.<br>'?' is equal to its MV."],
-["wad", "To Prunch, draw two cards.<br>'?' is equal to how many cards are in your whammy deck."],  
+["insect", "To Prunch, fateseal 2, then that opponent reveals the top card of their deck.<br>'?' is equal to its MV."],
+["wad", "To Prunch, draw two cards from either your library or your whammy deck.<br>'?' is equal to how many cards are in your whammy deck."],  
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
-["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its MV.<br>'?' is also equal to its MV."],
+["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its MV+1.<br>'?' is also equal to its MV+1."],
 ["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards you moved."],
 ["symbol of good", "To Prunch, open a booster pack of Homelands (<a href=\"https://mtgpacksim.com/sets/hml\">https://mtgpacksim.com/sets/hml</a>). You may play a land or freecast a spell from it.<br>'?' is equal to 8."]
   
