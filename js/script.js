@@ -1,6 +1,6 @@
 window.onload = function() {
 var myArray = [
-["troubled genius", "To Prunch, add a target card from your sideboard to your hand. Its colored mana pips perpetually become twobrid.<br>'?' is equal to its MV."],
+["troubled genius", "To Prunch, add a target card from your sideboard to your hand. Its colored mana pips perpetually become twobrid.<br>'?' is equal to its new MV."],
 ["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase.<br>'?' becomes equal to the number of phases you took this turn at the end of each end phase."],
 ["grunch", "To Prunch, Grunch.<br>'?' is equal to whatever '?' is equal to."],
