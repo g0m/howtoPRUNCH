@@ -65,7 +65,9 @@ var ftArray = [
   "One Prunch Man.",
   "Kind of funny to see Prunch.",
   "Deeply upsetting to see Prunch.",
-  "Please do not show me Prunch at this time."
+  "Please do not show me Prunch at this time.",
+  "Fuck... accidentally called my teacher Prunch :pensive:",
+  "Prunch? Entirely hollow. Filled with bees"
 ];
 var normalGrunchImage = "images/prunch.png"
 var randomGrunchImage = [
