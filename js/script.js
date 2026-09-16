@@ -10,7 +10,7 @@ var myArray = [
 ["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4."],
 ["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
 ["fallen soul", "To Prunch, draw a card from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
-["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax, for the rest of the game, and cannot be redefined."],
+["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax + 4, for the rest of the game, and cannot be redefined."],
 ["proxy", "To Prunch, gain a legendary emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 0 (nice try)."],
 ["insect", "To Prunch, fateseal 2, then that opponent reveals the top card of their deck.<br>'?' is equal to its MV."],
 ["wad", "To Prunch, draw two cards from either your library or your whammy deck.<br>'?' is equal to how many cards are in your whammy deck."],  
