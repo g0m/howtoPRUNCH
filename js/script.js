@@ -5,19 +5,19 @@ var myArray = [
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase. (After your end phase, untap, upkeep, and draw a card.) <br>'?' is equal to 5 (The number of phases in most turns)."],
 ["grunch", "To Prunch, <a href=\"https://tinyurl.com/howtoGRUNCH\">Grunch</a>.<br>'?' is equal to whatever '?' is equal to."],
 ["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from the battlefield. (Return it to its owner at the end of the game.)<br>'?' is equal to its mana value."],
-["noun", "To Prunch, you may put a purple permanent from your graveyard onto the battlefield.<br>'?' is equal to your devotion to purple."],
+["noun", "To Prunch, you may put any number of purple permanents from your graveyard onto the battlefield, tapped.<br>'?' is equal to your devotion to purple."],
 ["homunculus", "To Prunch, destroy up to two target conspiracies and/or emblems.<br>'?' is equal to 3."],
 ["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4. (Roll it now.)"],
 ["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
-["fallen soul", "To Prunch, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
+["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 3 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
 ["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax + 4, for the rest of the game, and cannot be redefined."],
-["proxy", "To Prunch, gain a legendary emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 1 (nice try)."],
-["insect", "To Prunch, fateseal 2, then that opponent reveals the top card of their deck.<br>'?' is equal to its mana value."],
+["proxy", "To Prunch, gain an emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 1 (nice try)."],
+["insect", "To Prunch, draw a card. Then, fateseal 2, then that opponent reveals the top card of their library.<br>'?' is equal to its mana value."],
 ["wad", "To Prunch, draw two cards from either your library or your whammy deck. (Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)<br>'?' is equal to how many cards are in your whammy deck."],  
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
 ["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its mana value + 1. (They get it back if they defeat it.)<br>'?' is also equal to its mana value + 1."],
 ["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards you moved."],
-["symbol of good", "To Prunch, put the basic land of your choice onto the battlefield (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"]
+["symbol of good", "To Prunch, search your library for the basic land of your choice, put it onto the battlefield, then shuffle your library. (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"]
   
 
 ];
