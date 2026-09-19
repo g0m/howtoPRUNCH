@@ -5,7 +5,7 @@ var myArray = [
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase. (After your end phase, untap, upkeep, and draw a card.) <br>'?' is equal to 5 (The number of phases in most turns)."],
 ["grunch", "To Prunch, <a href=\"https://tinyurl.com/howtoGRUNCH\">Grunch</a>.<br>'?' is equal to whatever '?' is equal to."],
 ["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from the battlefield. (Return it to its owner at the end of the game.)<br>'?' is equal to its mana value."],
-["noun", "To Prunch, you may put any number of purple permanents from your graveyard onto the battlefield, tapped.<br>'?' is equal to your devotion to purple."],
+["noun", "To Prunch, target player mills three cads, then you may put any number of purple permanents from your graveyard onto the battlefield, tapped, and any number of purple nonpermanent spells from your graveyard into your hand. <br>'?' is equal to double your devotion to purple."],
 ["homunculus", "To Prunch, destroy up to two target conspiracies and/or emblems.<br>'?' is equal to 3."],
 ["S-rank pull", "To Prunch, gain control of up to one target conspiracy. Any Hidden or Double Agendas on that card now refer to Prunch. You may flip it face down.<br>'?' is equal to 1d4. (Roll it now.)"],
 ["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
