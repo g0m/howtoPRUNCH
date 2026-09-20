@@ -11,7 +11,7 @@ var myArray = [
 ["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
 ["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 3 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
 ["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax + 4, for the rest of the game, and cannot be redefined."],
-["proxy", "To Prunch, gain an emblem with \"whenever you Prunch, draw ? cards\". Then, return Prunch to your hand.<br>'?' is equal to 1 (nice try)."],
+["proxy", "To Prunch, Prunch again, and in addition to its effects, draw ? cards and discard ? cards. <br>'?' is equal to NaN."],
 ["insect", "To Prunch, draw a card. Then, fateseal 2, then that opponent reveals the top card of their library.<br>'?' is equal to its mana value."],
 ["wad", "To Prunch, draw two cards from either your library or your whammy deck. (Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)<br>'?' is equal to how many cards are in your whammy deck."],  
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
