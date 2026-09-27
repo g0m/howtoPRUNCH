@@ -6,7 +6,7 @@ var myArray = [
 ["grunch", "To Prunch, <a href=\"https://tinyurl.com/howtoGRUNCH\">Grunch</a>.<br>'?' is equal to whatever '?' is equal to."],
 ["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from the battlefield. (Return it to its owner at the end of the game.)<br>'?' is equal to its mana value."],
 ["noun", "To Prunch, target player mills three cards, then you may put any number of purple permanents from your graveyard onto the battlefield, tapped, and any number of purple nonpermanent spells from your graveyard into your hand. <br>'?' is equal to double your devotion to purple."],
-["homunculus", "To Prunch, destroy up to two target conspiracies and/or emblems and/or dungeons and/or counters.<br>'?' is equal to 4."],
+["homunculus", "To Prunch, destroy up to two target conspiracies and/or emblems and/or dungeons and/or counters and/or designations and/or perpetual effects and/or links between two or more objects. <i>(Designations include monstrous, renowned, goaded, city’s blessing, commander, day/night, monarch, and level. Links include attached cards, soulbound effects, oblivion ring effects, etc. If you’re playing an EDH variant, you can’t destroy the commander designation.)</i><br>'?' is equal to 4."],
 ["S-rank pull", "To Prunch, roll 2d5. Select one result, and draw that many + 1 cards.<br>'?' is equal to the other result + 1."],
 ["Creature — Prunch", "To Prunch, place \"trample\" and \"this card is legal in all formats\" counters on Prunch.<br>'?' is equal to 5."],
 ["ex-SOLDIER", "To Prunch, Prunch becomes your commander.<br>'?' is equal to your commander tax + 4, for the rest of the game, and cannot be redefined."],
@@ -17,7 +17,7 @@ var myArray = [
 ["time lord", "To Prunch, move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards you moved."],
 ["symbol of good", "To Prunch, search your library for the basic land of your choice, put it onto the battlefield, then shuffle your library. (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"],
 ["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 4 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
-["wad", "To Prunch, draw two cards.<br>'?' is equal to how many cards are in your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i>"]
+["wad", "To Prunch, draw four cards, then put two cards from your hand into your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i><br>'?' is equal to how many cards are in your whammy deck."]
   
 
 ];
