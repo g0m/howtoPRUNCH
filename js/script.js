@@ -13,7 +13,7 @@ var myArray = [
 ["proxy", "To Prunch, Prunch again, and in addition to its effects, draw ? cards and discard ? cards. <br>'?' is equal to NaN."],
 ["insect", "To Prunch, draw a card. Then, fateseal 2, then that opponent reveals the top card of their library.<br>'?' is equal to its mana value."],
 ["bad guy from LOST", "To Prunch, target opponent reveals their hand. You may choose a target nonland card from it and put it into your hand.<br>'?' is equal to the number of cards in that opponent's hand."],  
-["historic villain", "To Prunch, turn target permanent face down. It becomes a battle under your protection with defence equal to its mana value + 1. (They get it back if they defeat it.)<br>'?' is also equal to its mana value + 1."],
+["historic villain", "To Prunch, turn target permanent controlled by an opponent face down. It becomes a battle under your protection with defence equal to its mana value + 1. (They get it back if they defeat it.)<br>'?' is also equal to its mana value + 1."],
 ["time lord", "To Prunch, move up to one card from your sideboard to your hand, then move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards in your graveyard."],
 ["symbol of good", "To Prunch, search your library for the basic land of your choice, put it onto the battlefield, then shuffle your library. (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"],
 ["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 4 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
