@@ -17,7 +17,7 @@ var myArray = [
 ["time lord", "To Prunch, move up to one card from your sideboard to your hand, then move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards in your graveyard."],
 ["symbol of good", "To Prunch, search your library for the basic land of your choice, put it onto the battlefield, then shuffle your library. (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"],
 ["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 4 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
-["wad", "To Prunch, draw four cards, then put two cards from your hand into your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i><br>'?' is equal to how many cards are in your whammy deck."]
+["wad", "To Prunch, draw four cards, then put two cards from your hand on top of your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i><br>'?' is equal to how many cards are in your whammy deck."]
   
 
 ];
