@@ -3,7 +3,6 @@ var myArray = [
 ["troubled genius", "To Prunch, add a target card from your sideboard to your hand. Its colored mana pips perpetually become twobrid.<br>'?' is equal to its new mana value."],
 ["chubby funster", "To Prunch, exile any number of cards from your hand, and then add that many plus one cards from your sideboard to your hand.<br>'?' is equal to the number of cards exiled by this effect."],
 ["UB staple", "To Prunch, add an additional beginning phase at the start of your next end phase. <i>(After your end phase, untap, upkeep, and draw a card.)</i> <br>'?' is equal to 5 <i>(The number of phases in most turns)</i>."],
-["grunch", "To Prunch, <a href=\"https://tinyurl.com/howtoGRUNCH\">Grunch</a>.<br>'?' is equal to whatever '?' is equal to."],
 ["purple man (not the marvel one)", "To Prunch, you may draft a card into your hand from the battlefield. (Return it to its owner at the end of the game.)<br>'?' is equal to its mana value."],
 ["noun", "To Prunch, target player mills three cards, then you may put any number of purple permanents from your graveyard onto the battlefield, tapped, and any number of purple nonpermanent spells from your graveyard into your hand. <br>'?' is equal to double your devotion to purple."],
 ["homunculus", "To Prunch, destroy up to two of the following game objects (you may choose the same mode twice): a conspiracy, an emblem, a dungeon, a counter, a designation, a perpetual effect, a link between two or more objects. <i>(Designations include monstrous, renowned, goaded, city’s blessing, commander, day/night, monarch, and level. Links include attached cards, soulbound effects, oblivion ring effects, etc. If you’re playing an EDH variant, you can’t destroy the commander designation.)</i><br>'?' is equal to 4."],
@@ -17,9 +16,9 @@ var myArray = [
 ["time lord", "To Prunch, move up to one card from your sideboard to your hand, then move any number of nonbasic cards from your sideboard to your graveyard.<br>'?' is equal to the number of cards in your graveyard."],
 ["symbol of good", "To Prunch, search your library for the basic land of your choice, put it onto the battlefield, then shuffle your library. (It came from Homelands).<br>'?' is equal to the amount of upvotes Prunch received in submissions divided by 10 (rounded down). (7)"],
 ["fallen soul", "To Prunch, exile cards from the top of target opponent's library until there are 4 or more total cards in exile. Then, draw a card of your choice from exile or HELL.<br>'?' is equal to the amount of cards in exile and HELL."],
-["wad", "To Prunch, draw four cards, then put two cards from your hand on top of your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i><br>'?' is equal to how many cards are in your whammy deck."]
-  
-
+["wad", "To Prunch, draw four cards, then put two cards from your hand on top of your whammy deck. <i>(Your whammy deck starts as a Plains, Island, Swamp, Mountain, and Forest.)</i><br>'?' is equal to how many cards are in your whammy deck."],
+["Prunch from the future", "To Prunch, return Prunch to your hand. It gains flash and costs 0 mana to cast until the start of your next turn.<br>'?' will be defined shortly."]
+//["grunch", "To Prunch, <a href=\"https://tinyurl.com/howtoGRUNCH\">Grunch</a>.<br>'?' is equal to whatever '?' is equal to."],
 ];
 
 var ftArray = [
